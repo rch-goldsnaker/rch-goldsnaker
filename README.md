@@ -10,34 +10,34 @@
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;Technologies Stacks</h3>
 
 - 🌐 &nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![React](https://img.shields.io/badge/-NextJs-333333?style=flat&logo=Next.js)
+  ![Next.js](https://img.shields.io/badge/-NextJs-333333?style=flat&logo=Next.js)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=arduinoi)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
+  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
+- 🗂️ &nbsp; 
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
+- 📡 &nbsp;
+  ![EMQX](https://img.shields.io/badge/-EMQX-333333?style=flat&logo=EMQX)
+- ☁️ &nbsp;
+  ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-333333?style=flat&logo=microsoftazure)
+  ![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-333333?style=flat&logo=amazonaws)
+  ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=Heroku)
+  ![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-333333?style=flat&logo=DigitalOcean)
+  ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-333333?style=flat&logo=github)
+- 🛠️ &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-- 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
+  ![Linux](https://img.shields.io/badge/-linux-333333?style=flat&logo=linux)
 
 <br/>
 
