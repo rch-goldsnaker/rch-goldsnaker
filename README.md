@@ -5,10 +5,10 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🎓 &nbsp; I am a Electromechanical Engineer and Full Stack Developer.
+- 💼 &nbsp; Working as a Front-End developer in a software company.
+- 🌱 &nbsp; Learning more about IoT, Machine Learning and Industry 4.0.
+- ⚽ &nbsp; I like to play soccer and running.
 
 <h3> 🛠 &nbsp;Technologies Stacks</h3>
 
@@ -38,8 +38,6 @@
 - 🛠️ &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Linux](https://img.shields.io/badge/-linux-333333?style=flat&logo=linux)
-
-<br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
