@@ -1,4 +1,4 @@
-<-- <img src="https://raw.g"> -->
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
 <h2> Hey there! I'm Roger Chung.</h2>
 
