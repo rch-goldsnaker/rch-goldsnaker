@@ -52,4 +52,4 @@
 <a href="mailto:rch.goldsnaker@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rch.goldsnaker@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
->Never regret a day in your life: good days give happiness, bad days give experience, worst days give lessons, and best days give memories.
+>*Never regret a day in your life: good days give happiness, bad days give experience, worst days give lessons, and best days give memories.*
