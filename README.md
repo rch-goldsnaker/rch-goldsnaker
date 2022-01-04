@@ -1,4 +1,4 @@
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+![](https://github.com/rch-goldsnaker/rch-goldsnaker/blob/main/header_1.png)
 
 <h2> Hey there! I'm Roger Chung.</h2>
 
