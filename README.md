@@ -49,7 +49,7 @@
 <p align="center">
 <a href="https://rch-goldsnaker.github.io/R006_Portafolio_NextJs/"><img alt="Website" src="https://img.shields.io/badge/Website-www.portafoliorchung.tk-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/roger-chung-445170b9/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Roger%20Chung-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:rch.goldsnaker@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rch.goldsnaker@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [AVS1508](https://github.com/)
