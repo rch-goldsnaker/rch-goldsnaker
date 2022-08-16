@@ -27,18 +27,18 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
-- 📡 &nbsp;
-  ![EMQX](https://img.shields.io/badge/-EMQX-333333?style=flat&logo=EMQX)
+- 📈 &nbsp;
+  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=TensorFlow)
 - ☁️ &nbsp;
   ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-333333?style=flat&logo=microsoftazure)
   ![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-333333?style=flat&logo=amazonaws)
   ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=Heroku)
   ![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-333333?style=flat&logo=DigitalOcean)
   ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-333333?style=flat&logo=github)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 - 🛠️ &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Linux](https://img.shields.io/badge/-linux-333333?style=flat&logo=linux)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
