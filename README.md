@@ -38,6 +38,7 @@
 - 🛠️ &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Linux](https://img.shields.io/badge/-linux-333333?style=flat&logo=linux)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=linux)
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
