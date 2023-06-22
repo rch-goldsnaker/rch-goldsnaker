@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; I am a Electromechanical Engineer.
-- 💼 &nbsp; Working as a Front-End developer in a software company.
+- 💼 &nbsp; Working as a Fullstak developer in a software company.
 - 🌱 &nbsp; Learning more about IoT, Machine Learning and Industry 4.0.
 - ⚽ &nbsp; I like to play soccer and running.
 
