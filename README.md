@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; I am a Electromechanical Engineer.
+- 🎓 &nbsp; I am a Electromechanical Engineer | FullStack Developer | IoT Developer.
 - 🌱 &nbsp; Learning more about IoT, Machine Learning and Industry 4.0.
 
 <h3> 🛠 &nbsp;Technologies Stacks</h3>
