@@ -6,9 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; I am a Electromechanical Engineer.
-- 💼 &nbsp; Working as a Fullstak developer in a software company.
 - 🌱 &nbsp; Learning more about IoT, Machine Learning and Industry 4.0.
-- ⚽ &nbsp; I like to play soccer and running.
 
 <h3> 🛠 &nbsp;Technologies Stacks</h3>
 
@@ -23,7 +21,6 @@
   ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=Django)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
 - 🗂️ &nbsp; 
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
