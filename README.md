@@ -1,6 +1,6 @@
 ![](https://github.com/rch-goldsnaker/rch-goldsnaker/blob/main/header_1.png)
 
-<h2> Hey there! I'm Roger Chung. | Mirutec </h2>
+<h2> Hey there!</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
